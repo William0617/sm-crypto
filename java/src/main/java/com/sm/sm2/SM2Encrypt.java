@@ -45,7 +45,6 @@ public abstract class SM2Encrypt {
 
     /**
      * base 64 public key
-     * 默认测试参数
      *
      * @param publicKeyBase64 Base64
      * @param plainText
