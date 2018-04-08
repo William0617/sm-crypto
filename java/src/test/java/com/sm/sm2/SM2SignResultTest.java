@@ -6,9 +6,6 @@ import java.math.BigInteger;
 
 import static org.testng.Assert.*;
 
-/**
- * @author Shengzhao Li
- */
 public class SM2SignResultTest {
 
     @Test
